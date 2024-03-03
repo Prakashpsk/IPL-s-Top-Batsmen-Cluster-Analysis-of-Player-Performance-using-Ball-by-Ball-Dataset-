@@ -1,5 +1,6 @@
 # IPL's Top Batsmen: Cluster Analysis of Player Performance using Ball-by-Ball Dataset 
 
+![](https://github.com/Prakashpsk/IPL-s-Top-Batsmen-Cluster-Analysis-of-Player-Performance-using-Ball-by-Ball-Dataset-/blob/main/26-267443_indian-cricket-team-hd-images-download.jpg)
 ## Introduction
 In this project, we delve into the exciting world of the Indian Premier League (IPL) by analyzing ball-by-ball data to identify and cluster the top batsmen. By leveraging advanced clustering techniques, we aim to unveil patterns in player performance and showcase some of the best IPL batsmen of all time.
 
